@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Juan%20Rodriguez/Desktop/practica_mlops/mlruns/807195654712163889/models/m-aa6d5fe8fba64cb78e789e477728b21d/artifacts
+creation_timestamp: 1752745303334
+experiment_id: '807195654712163889'
+last_updated_timestamp: 1752745306984
+model_id: m-aa6d5fe8fba64cb78e789e477728b21d
+model_type: null
+name: random_forest_model
+source_run_id: 0b191b4ac0ab44db9363771dc208fe53
+status: 2
+status_message: null

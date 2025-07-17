@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Juan%20Rodriguez/Desktop/practica_mlops/mlruns/807195654712163889/15f5542b66f649d5ac52c25d14940b4d/artifacts
+end_time: 1752745729735
+entry_point_name: ''
+experiment_id: '807195654712163889'
+lifecycle_stage: active
+run_id: 15f5542b66f649d5ac52c25d14940b4d
+run_name: wise-skunk-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752745726051
+status: 3
+tags: []
+user_id: Juan Rodriguez

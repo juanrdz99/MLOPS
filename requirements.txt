@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+mlflow
+pandas
+joblib
+transformers
+torch
+python-dotenv

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Juan%20Rodriguez/Desktop/practica_mlops/mlruns/807195654712163889/0b191b4ac0ab44db9363771dc208fe53/artifacts
+end_time: 1752745306998
+entry_point_name: ''
+experiment_id: '807195654712163889'
+lifecycle_stage: active
+run_id: 0b191b4ac0ab44db9363771dc208fe53
+run_name: able-stoat-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752745303137
+status: 3
+tags: []
+user_id: Juan Rodriguez
